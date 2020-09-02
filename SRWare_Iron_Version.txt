@@ -1,0 +1,572 @@
+Chrome 文字にじみ対策
+--disable-directwrite-for-ui
+※先頭に１スペース入れること
+
+
+インストールした日　2010年10月27日
+（リリース日　2010年10月26日）
+SRWare Iron	7.0.520.0 (Official Build 63000)
+WebKit	534.7
+V8	2.3.11.17
+ユーザー エージェント	Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.7 (KHTML, like Gecko) Iron/7.0.520.0 Chrome/7.0.520.0 Safari/534.7
+コマンドライン	"C:\Program Files (x86)\SRWare Iron\iron.exe
+
+アップデート日　2011年01月29日
+（リリース日　2011年1月18日）
+SRWare Iron	8.0.555.1 (Official Build 71000)
+WebKit	534.10
+V8	2.4.9.19
+ユーザー エージェント	Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.10 (KHTML, like Gecko) Iron/8.0.555.1 Chrome/8.0.555.1 Safari/534.10
+コマンドライン	"C:\Program Files (x86)\SRWare Iron\iron.exe" --flag-switches-begin --flag-switches-end
+
+アップデート日　2011年03月27日
+（リリース日　2011年3月9日）
+SRWare Iron	10.0.650.0 (Official Build 77000)
+WebKit	534.16 (@0)
+V8	3.0.12.30
+ユーザー エージェント	Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Iron/10.0.650.0 Chrome/10.0.650.0 Safari/534.16
+コマンドライン	"C:\Program Files (x86)\SRWare Iron\iron.exe" --flag-switches-begin --flag-switches-end
+
+アップデート日　2011年07月03日
+（リリース日　2011年6月14日）
+SRWare Iron	12.0.750.0 (Official Build 88000)
+WebKit	534.30 (branches/chromium/742@88085)
+V8	3.2.10.15
+Flash	10,3,181,26
+ユーザー エージェント	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534.30 (KHTML, like Gecko) Iron/12.0.750.0 Chrome/12.0.750.0 Safari/534.30
+コマンドライン	"C:\Program Files (x86)\SRWare Iron\iron.exe" --flag-switches-begin --flag-switches-end
+
+アップデート日　2011年10月21日
+（リリース日　2011年9月1日）
+SRWare Iron	14.0.850.0 (Official Build 102000)
+OS	Windows
+WebKit	535.1 (branches/chromium/835@94713)
+JavaScript	V8 3.4.14.21
+Flash	11,0,1,152
+ユーザー エージェント	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.1 (KHTML, like Gecko) Iron/14.0.850.0 Chrome/14.0.850.0 Safari/535.1
+コマンドライン	"C:\Program Files (x86)\SRWare Iron\iron.exe" --flag-switches-begin --flag-switches-end
+実行可能なパス	C:\Program Files (x86)\SRWare Iron\iron.exe
+プロフィール パス	C:\Users\masaru\AppData\Local\Chromium\User Data\Default
+
+アップデート日　2011年12月11日
+（リリース日　2011年11月25日）
+SRWare Iron	15.0.900.2 (Official Build 107001)
+OS	Windows
+WebKit	535.2 (branches/chromium/874/Source/WebCore/Configurations@100034)
+JavaScript	V8 3.5.10.24
+Flash	11,1,102,55
+ユーザー エージェント	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.2 (KHTML, like Gecko) Iron/15.0.900.2 Chrome/15.0.900.2 Safari/535.2
+コマンドライン	"C:\Program Files (x86)\SRWare Iron\iron.exe" --flag-switches-begin --flag-switches-end
+実行可能なパス	C:\Program Files (x86)\SRWare Iron\iron.exe
+プロフィール パス	C:\Users\masaru\AppData\Local\Chromium\User Data\Default
+
+アップデート日　2012年2月3日
+（リリース日　2011年12月21日）
+SRWare Iron	16.0.950.0 (Official Build 115000)
+OS	Windows
+WebKit	535.7 (branches/chromium/912/Source/WebCore/Configurations@101565)
+JavaScript	V8 3.6.6.11
+Flash	11,1,102,55
+ユーザー エージェント	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.7 (KHTML, like Gecko) Iron/16.0.950.0 Chrome/16.0.950.0 Safari/535.7
+コマンドライン	"C:\Program Files (x86)\SRWare Iron\iron.exe" --flag-switches-begin --flag-switches-end
+実行可能なパス	C:\Program Files (x86)\SRWare Iron\iron.exe
+プロフィール パス	C:\Users\masaru\AppData\Local\Chromium\User Data\Default
+
+アップデート日　2012年5月23日
+（リリース日　2012年5月15日）
+SRWare Iron	18.0.1050.1 (Official Build 135000)
+OS	Windows
+WebKit	535.19 (branches/chromium/1025/Source/WebCore/Configurations@114948)
+JavaScript	V8 3.8.9.19
+Flash	11,2,202,235
+ユーザー エージェント	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Iron/18.0.1050.1 Chrome/18.0.1050.1 Safari/535.19
+コマンドライン	"C:\Program Files (x86)\SRWare Iron\iron.exe" --flag-switches-begin --flag-switches-end
+実行可能なパス	C:\Program Files (x86)\SRWare Iron\iron.exe
+プロフィール パス	C:\Users\masaru\AppData\Local\Chromium\User Data\Default
+
+アップデート日　2012年9月15日
+（リリース日　2012年8月12日）
+SRWare Iron	21.0.1200.0 (Official Build 151001)
+OS	Windows
+WebKit	537.1 (branches/chromium/1180/Source/WebCore/Configurations@123707)
+JavaScript	V8 3.11.10.17
+Flash	11,4,402,265
+ユーザー エージェント	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1200.0 Iron/21.0.1200.0 Safari/537.1
+コマンドライン	"C:\Program Files (x86)\SRWare Iron\iron.exe" --flag-switches-begin --flag-switches-end
+実行可能なパス	C:\Program Files (x86)\SRWare Iron\iron.exe
+プロフィール パス	C:\Users\masaru\AppData\Local\Chromium\User Data\Default
+
+アップデート日　2013年2月9日
+（リリース日　2013年1月23日）
+SRWare Iron	24.0.1350.0 (Official Build 176001) 
+OS	Windows 
+WebKit	537.17 (branches/chromium/1312/Source/WebCore/Configurations@138969)
+JavaScript	V8 3.14.5.3
+Flash	11,5,502,149
+ユーザー エージェント	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.17 (KHTML, like Gecko) Chrome/24.0.1350.0 Iron/24.0.1350.0 Safari/537.17
+コマンドライン	"C:\Program Files (x86)\SRWare Iron\iron.exe" --flag-switches-begin --flag-switches-end
+実行可能なパス	C:\Program Files (x86)\SRWare Iron\iron.exe
+プロフィール パス	C:\Users\zzz\AppData\Local\Chromium\User Data\Default
+バリエーション	5666f941-fd526c81
+				b03ddc1f-75e383c2
+				4dcb0cd6-d31c4ca1
+				f9b252d0-fd526c81
+				ccee547a-766fa2d
+				571ffcab-766fa2d
+				60f3499f-766fa2d
+				76b86d80-766fa2d
+				ffbe45b6-8953641b
+				75f7fb7e-766fa2d
+				262f996f-eeefeb17
+				24dca50e-4bb3e394
+				ca65a9fe-91ac3782
+				3028188e-f758d5dd
+				df910896-3d47f4f4
+				246fb659-3a9ae350
+				f296190c-48a2334a
+				4442aae2-e1cc0f14
+				75f0f0a0-d7f6b13c
+				e2b18481-92bb99a9
+				e7e71889-e1cc0f14
+				980cfc4b-e3130bf3
+
+アップデート日　2013年5月18日
+（リリース日　2013年4月9日）
+SRWare Iron	26.0.1450.0 (Official Build 190000) 
+OS	Windows 
+WebKit	537.36 (Unknown URL@0)
+JavaScript	V8 3.17.6.1
+Flash	11,7,700,202
+ユーザー エージェント	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Iron/26.0.1450.0 Chrome/26.0.1450.0 Safari/537.36
+コマンドライン	"C:\Program Files (x86)\SRWare Iron\iron.exe" --flag-switches-begin --flag-switches-end
+実行ファイルのパス	C:\Program Files (x86)\SRWare Iron\iron.exe
+プロフィール パス	C:\Users\zzz\AppData\Local\Chromium\User Data\Default
+バリエーション	b03ddc1f-75e383c2
+f9b252d0-fd526c81
+ff3fc1a6-766fa2d
+7f6da4bf-9b00527b
+75f7fb7e-611a9f49
+ad0f4b69-eac0f96c
+262f996f-eeefeb17
+24dca50e-455c9cca
+246fb659-92bb99a9
+f296190c-48a2334a
+4442aae2-e1cc0f14
+75f0f0a0-d7f6b13c
+e2b18481-92bb99a9
+e7e71889-e1cc0f14
+
+アップデート日　2013年9月7日
+（リリース日　2013年9月6日）
+SRWare Iron	29.0.1600.0 (Official Build 220000) 
+OS	Windows 
+Blink	537.36 (@155959)
+JavaScript	V8 3.19.18.19
+Flash	11,8,800,94
+ユーザー エージェント	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Iron/29.0.1600.0 Chrome/29.0.1600.0 Safari/537.36
+コマンドライン	"C:\Program Files (x86)\SRWare Iron\iron.exe" --flag-switches-begin --flag-switches-end
+実行ファイルのパス	C:\Program Files (x86)\SRWare Iron\iron.exe
+プロフィール パス	C:\Users\zzz\AppData\Local\Chromium\User Data\Default
+バリエーション	b0f8639e-3d47f4f4
+b03ddc1f-75e383c2
+f9b252d0-fd526c81
+262f996f-eeefeb17
+24dca50e-837c4893
+ca65a9fe-91ac3782
+82d91892-3f4a17df
+246fb659-92bb99a9
+f296190c-7da8925a
+4442aae2-e1cc0f14
+75f0f0a0-d7f6b13c
+e2b18481-92bb99a9
+e7e71889-e1cc0f14
+
+アップデート日　2014年10月01日
+（リリース日　2014年9月8日）
+SRWare Iron	37.0.2000.0 (Official Build 291000) 
+OS	Windows 
+Blink	537.36 (@180557)
+JavaScript	V8 3.27.34.14
+Flash	15,0,0,239
+ユーザー エージェント	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Iron/37.0.2000.0 Chrome/37.0.2000.0 Safari/537.36
+コマンドライン	"C:\Program Files (x86)\SRWare Iron\chrome.exe" --flag-switches-begin --flag-switches-end
+実行ファイルのパス	C:\Program Files (x86)\SRWare Iron\chrome.exe
+プロフィール パス	C:\Users\zzz\AppData\Local\Chromium\User Data\Default
+バリエーション	24dca50e-c4e4c5f
+ca65a9fe-91ac3782
+246fb659-7158671e
+f296190c-fae5d535
+4442aae2-75cb33fc
+ed1d377-e1cc0f14
+75f0f0a0-d7f6b13c
+e2b18481-3a9ae350
+e7e71889-4ad60575
+
+アップデート日　2014年12月06日
+（リリース日　2014年10月24日）
+SRWare Iron	38.0.2050.0 (Official Build 295000) 
+OS	Windows 
+Blink	537.36 (@183011)
+JavaScript	V8 3.28.71.15
+Flash	15,0,0,239
+ユーザー エージェント	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2050.0 Iron/38.0.2150.0 Safari/537.36
+コマンドライン	"C:\Program Files (x86)\SRWare Iron\chrome.exe" --flag-switches-begin --flag-switches-end
+実行ファイルのパス	C:\Program Files (x86)\SRWare Iron\chrome.exe
+プロフィール パス	C:\Users\zzz\AppData\Local\Chromium\User Data\Default
+バリエーション	24dca50e-837c4893
+ca65a9fe-91ac3782
+246fb659-5c63917a
+f296190c-fae5d535
+4442aae2-75cb33fc
+ed1d377-e1cc0f14
+75f0f0a0-d7f6b13c
+e2b18481-3a9ae350
+e7e71889-4ad60575
+
+アップデート日　2015年02月15日
+（リリース日　2015年02月10日）
+SRWare Iron	40.0.2150.0 (Developer Build) 
+変更履歴	fad7fb9e0b0f1a29b71e45f27c007ecbf4870498
+OS	Windows 
+Blink	537.36 (@188344)
+JavaScript	V8 3.30.33.15
+Flash	16,0,0,257
+ユーザー エージェント	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2150.0 Iron/40.0.2150.0 Safari/537.36
+コマンドライン	"C:\Program Files (x86)\SRWare Iron\chrome.exe" --flag-switches-begin --flag-switches-end
+実行ファイルのパス	C:\Program Files (x86)\SRWare Iron\chrome.exe
+プロフィール パス	C:\Users\zzz\AppData\Local\Chromium\User Data\Default
+バリエーション	f9b252d0-fd526c81
+24dca50e-455c9cca
+246fb659-a5822863
+f296190c-fae5d535
+4442aae2-75cb33fc
+ed1d377-e1cc0f14
+75f0f0a0-d7f6b13c
+e2b18481-3a9ae350
+e7e71889-4ad60575
+
+アップデート日　2015年05月08日
+（リリース日　2015年05月04日）
+SRWare Iron	42.0.2250.1 (Developer Build) （32 ビット）
+変更履歴	7d100c0e9df1d093c61d7e2c16daf1327d7cc163
+OS	Windows 
+Blink	537.36 (@193294)
+JavaScript	V8 4.2.77.14
+Flash	17,0,0,169
+ユーザー エージェント	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2250.1 Iron/42.0.2250.1 Safari/537.36
+コマンドライン	"C:\Program Files (x86)\SRWare Iron\chrome.exe" --disable-directwrite-for-ui --flag-switches-begin --flag-switches-end
+実行ファイルのパス	C:\Program Files (x86)\SRWare Iron\chrome.exe
+プロフィール パス	C:\Users\zzz\AppData\Local\Chromium\User Data\Default
+バリエーション	f9b252d0-fd526c81
+24dca50e-837c4893
+
+アップデート日　2015年11月06日
+（リリース日　2015年11月03日）
+SRWare Iron	46.0.2450.0 (Developer Build) （32 ビット）
+変更履歴	158cc41667e72fea491e56ac074114d3bdf83591
+OS	Windows 
+Blink	537.36 (@158cc41667e72fea491e56ac074114d3bdf83591)
+JavaScript	V8 4.6.85.25
+Flash	（無効）
+ユーザー エージェント	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2450.0 Iron/46.0.2450.0 Safari/537.36
+コマンドライン	"C:\Program Files (x86)\SRWare Iron\chrome.exe" --flag-switches-begin --flag-switches-end http://www.srware.net/flash.html
+実行ファイルのパス	C:\Program Files (x86)\SRWare Iron\chrome.exe
+プロフィール パス	C:\Users\zzz\AppData\Local\Chromium\User Data\Default
+バリエーション	74785582-3f4a17df
+76b48ab8-a2567007
+195ce1b5-d93a0620
+9d315c2-ca7d8d80
+1d3ad72e-3f4a17df
+f79cb77b-3d47f4f4
+4ea303a6-3f4a17df
+5c3cc7b1-3f4a17df
+b2612322-8a9180b2
+
+
+アップデート日　2016年03月12日
+（リリース日　2016年02月26日）
+SRWare Iron	48.0.2550.2 (Developer Build) （32 ビット）
+変更履歴	00a9fbe74bf3e815325a91a79f70a5044d5e02fa
+OS	Windows 
+Blink	537.36 (@6b53888d9893e17210eb2ec98d8e9f8d5ea8a5d1)
+JavaScript	V8 4.8.271.17
+Flash	21.0.0.182
+ユーザー エージェント	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2550.2 Iron/48.0.2550.2 Safari/537.36
+コマンドライン	"C:\Program Files (x86)\SRWare Iron\chrome.exe" --flag-switches-begin --flag-switches-end -- https://get.adobe.com/flashplayer/completion/adm/?exitcode=0&type=install&re=0
+実行ファイルのパス	C:\Program Files (x86)\SRWare Iron\chrome.exe
+プロフィール パス	C:\Users\zzz\AppData\Local\Chromium\User Data\Default
+バリエーション	74785582-3f4a17df
+775ebbd7-3f4a17df
+76b48ab8-a2567007
+195ce1b5-d93a0620
+9d315c2-ca7d8d80
+fb124cc-3f4a17df
+93731dca-3f4a17df
+1d3ad72e-3f4a17df
+f79cb77b-3d47f4f4
+4ea303a6-3f4a17df
+b2612322-8a9180b2
+Compiler	MSVC
+
+
+アップデート日　2016年06月03日
+（リリース日　2016年04月30日）
+SRWare Iron	50.0.2650.0 (Developer Build) （32 ビット）
+変更履歴	f6c0a1a39f3cc347ffaf4a575be3ff53f270c7e6
+OS	Windows 
+Blink	537.36 (@ffad3c52452e415ab24c9cad1bae22eeb7428092)
+JavaScript	V8 5.0.71.32
+Flash	21.0.0.242
+ユーザー エージェント	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2650.0 Iron Safari/537.36
+コマンドライン	"C:\Program Files (x86)\SRWare Iron\chrome.exe" --disable-directwrite-for-ui --flag-switches-begin --flag-switches-end
+実行ファイルのパス	C:\Program Files (x86)\SRWare Iron\chrome.exe
+プロフィール パス	C:\Users\zzz\AppData\Local\Chromium\User Data\Default
+バリエーション	16e0dd70-3f4a17df
+74785582-3f4a17df
+cf5ed6e1-3f4a17df
+775ebbd7-3f4a17df
+76b48ab8-a2567007
+9d315c2-ca7d8d80
+dd4da2fc-3f4a17df
+93731dca-3f4a17df
+1d3ad72e-3f4a17df
+64cbdfc2-3f4a17df
+f79cb77b-3d47f4f4
+4ea303a6-3f4a17df
+30e679f-3f4a17df
+b2612322-8a9180b2
+c8b9b12d-d93a0620
+867c4c68-3f4a17df
+6844d8aa-669a04e0
+Compiler	MSVC
+
+
+アップデート日　2016年10月21日
+（リリース日　2016年09月17日）
+SRWare Iron	53.0.2800.0 (Developer Build) （32 ビット）
+変更履歴	49dccdea6645f6759fc6e779e12e81930ede2d4a
+OS	Windows 
+Blink	537.36 (@a905cffb2d18baa410d0a19cc9d3941349f2d4b6)
+JavaScript	V8 5.3.332.37
+Flash	23.0.0.185
+ユーザー エージェント	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2800.0 Iron Safari/537.36
+コマンドライン	"C:\Program Files (x86)\SRWare Iron\chrome.exe" --disable-directwrite-for-ui --flag-switches-begin --flag-switches-end
+実行ファイルのパス	C:\Program Files (x86)\SRWare Iron\chrome.exe
+プロフィール パス	C:\Users\zzz\AppData\Local\Chromium\User Data\Default
+バリエーション	16e0dd70-3f4a17df
+b3888d8d-afba0f91
+74785582-3f4a17df
+ba3f87da-a6404135
+f049a919-3f4a17df
+76b48ab8-a2567007
+195ce1b5-d93a0620
+9d315c2-ca7d8d80
+dd4da2fc-3f4a17df
+43d0dd1e-3f4a17df
+93731dca-3f4a17df
+1a5bac38-3f4a17df
+1d3ad72e-3f4a17df
+64cbdfc2-3f4a17df
+f5dd6118-2f5721af
+f79cb77b-3d47f4f4
+b7786474-d93a0620
+89cd0b4b-a4e5a327
+868bda90-3f4a17df
+4ea303a6-3f4a17df
+9736de91-3f4a17df
+30e679f-3f4a17df
+b2612322-8a9180b2
+867c4c68-3f4a17df
+d747916f-d747916f
+6844d8aa-669a04e0
+fe05be5f-4ad60575
+Compiler	MSVC 2015
+
+アップデート日　2016年11月16日
+（リリース日　2016年10月31日）
+SRWare Iron	54.0.2850.0 (Developer Build) （32 ビット）
+変更履歴	94e94a4190c88509a70809864e3bb7c4f92c6901
+OS	Windows 
+JavaScript	V8 5.4.500.31
+Flash	23.0.0.207
+ユーザー エージェント	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2850.0 Iron Safari/537.36
+コマンドライン	"C:\Program Files (x86)\SRWare Iron\chrome.exe" --disable-directwrite-for-ui --flag-switches-begin --flag-switches-end
+実行ファイルのパス	C:\Program Files (x86)\SRWare Iron\chrome.exe
+プロフィール パス	C:\Users\zzz\AppData\Local\Chromium\User Data\Default
+バリエーション	16e0dd70-3f4a17df
+b3888d8d-afba0f91
+74785582-3f4a17df
+ba3f87da-a6404135
+f049a919-3f4a17df
+775ebbd7-3f4a17df
+76b48ab8-a2567007
+9d315c2-ca7d8d80
+93731dca-3f4a17df
+1d3ad72e-3f4a17df
+9e243dd-3f4a17df
+64cbdfc2-3f4a17df
+6b121ae7-3f4a17df
+5139837c-3f4a17df
+f5dd6118-2f5721af
+f79cb77b-3d47f4f4
+b7786474-d93a0620
+7382e39a-3f4a17df
+89cd0b4b-a4e5a327
+868bda90-3f4a17df
+4ea303a6-3f4a17df
+9736de91-3f4a17df
+b2612322-8a9180b2
+c5073fab-3f4a17df
+867c4c68-3f4a17df
+d747916f-d747916f
+6844d8aa-669a04e0
+fe05be5f-4ad60575
+828a5926-d8f52f32
+Compiler	MSVC 2015
+
+
+アップデート日　2016年12月17日
+（リリース日　2016年12月14日）
+SRWare Iron	55.0.2900.1 (Official Build) （32 ビット）
+変更履歴	ea46662d4008c9fcfb8a3ee1933dd2f5e90a9c3b
+OS	Windows 
+JavaScript	V8 5.5.372.29
+Flash	24.0.0.186
+ユーザー エージェント	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2900.1 Iron Safari/537.36
+コマンドライン	"C:\Program Files (x86)\SRWare Iron\chrome.exe" --flag-switches-begin --flag-switches-end -- https://get.adobe.com/flashplayer/completion/adm/?exitcode=0&type=install&re=0&preinstalled=1
+実行ファイルのパス	C:\Program Files (x86)\SRWare Iron\chrome.exe
+プロフィール パス	C:\Users\zzz\AppData\Local\Chromium\User Data\Default
+バリエーション	90757ebb-3f4a17df
+b3888d8d-afba0f91
+74785582-3f4a17df
+ba3f87da-a6404135
+f049a919-3f4a17df
+775ebbd7-3f4a17df
+76b48ab8-a2567007
+9d315c2-ca7d8d80
+5274eb09-3f4a17df
+8ca44045-3f4a17df
+93731dca-3f4a17df
+2e109477-e2e291f1
+1d3ad72e-3f4a17df
+9e243dd-3f4a17df
+64cbdfc2-3f4a17df
+6b121ae7-3f4a17df
+5139837c-3f4a17df
+7f8176d9-3f4a17df
+f79cb77b-3d47f4f4
+b7786474-d93a0620
+23a898eb-e0e2610f
+7382e39a-3f4a17df
+868bda90-3f4a17df
+630a1b64-3f4a17df
+4ea303a6-3f4a17df
+bdec89bf-3f4a17df
+9736de91-3f4a17df
+3326cd71-3f4a17df
+b2612322-8a9180b2
+ca314179-ea08a3f2
+c5073fab-3f4a17df
+867c4c68-3f4a17df
+d747916f-d747916f
+477f6800-72c07fe0
+6844d8aa-669a04e0
+fe05be5f-4ad60575
+828a5926-d8f52f32
+Compiler	MSVC 2015
+
+
+アップデート日　2017年04月15日
+（リリース日　2017年03月27日）
+SRWare Iron	57.0.3000.0 (Official Build) （32 ビット）
+変更履歴	e7b8ec900d06ed374f356b7679e6bf05f73b50da
+OS	Windows 
+JavaScript	V8 5.7.492.65
+Flash	25.0.0.148 C:\Windows\SysWOW64\Macromed\Flash\pepflashplayer32_25_0_0_148.dll
+ユーザー エージェント	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.3000.0 Iron Safari/537.36
+コマンドライン	"C:\Program Files (x86)\SRWare Iron\chrome.exe" --disable-directwrite-for-ui --flag-switches-begin --flag-switches-end
+実行ファイルのパス	C:\Program Files (x86)\SRWare Iron\chrome.exe
+プロフィール パス	C:\Users\zzz\AppData\Local\Chromium\User Data\Default
+Compiler	MSVC 2015
+
+
+アップデート日　2017年11月04日
+（リリース日　2017年09月23日）
+SRWare Iron	61.0.3200.0 (Developer Build) （32 ビット） 
+変更履歴	55c4bd6cbd25a766152843f4b7a7a0ffae0d2427-
+OS	Windows
+JavaScript	V8 6.1.534.32
+Flash	29.0.0.171 C:\WINDOWS\SysWOW64\Macromed\Flash\pepflashplayer32_29_0_0_171.dll
+ユーザー エージェント	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3200.0 Iron Safari/537.36
+コマンドライン	"C:\Program Files (x86)\SRWare Iron\chrome.exe" --flag-switches-begin --flag-switches-end
+実行ファイルのパス	C:\Program Files (x86)\SRWare Iron\chrome.exe
+プロフィール パス	C:\Users\AtoZ\AppData\Local\Chromium\User Data\Default
+Compiler	MSVC 2015
+
+
+アップデート日　2018年06月03日
+（リリース日　2017年05月11日）
+SRWare Iron	66.0.3450.0 (Official Build) （32 ビット） 
+変更履歴	1634af79e3bf0d6f0178a5fdb8829b059ead4b26-
+OS	Windows
+JavaScript	V8 6.6.346.24
+Flash	29.0.0.171 C:\WINDOWS\SysWOW64\Macromed\Flash\pepflashplayer32_29_0_0_171.dll
+ユーザー エージェント	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3450.0 Iron Safari/537.36
+コマンドライン	"C:\Program Files (x86)\SRWare Iron\chrome.exe" --flag-switches-begin --flag-switches-end -- https://get.adobe.com/flashplayer/completion/adm/?exitcode=0&type=install&re=1&appId=200&preinstalled=1
+実行ファイルのパス	C:\Program Files (x86)\SRWare Iron\chrome.exe
+プロフィール パス	C:\Users\AtoZ\AppData\Local\Chromium\User Data\Default
+Compiler	clang
+
+
+アップデート日　2018年11月11日
+（リリース日　2018年10月09日）
+SRWare Iron	69.0.3600.0 (Official Build) （64 ビット） 
+変更履歴	eb2c6d16bcb960cc5c322243c1771713460c4bcf-refs/branch-heads/3497@{#921}
+OS	Windows
+JavaScript	V8 6.9.427.22
+Flash	31.0.0.122 C:\WINDOWS\system32\Macromed\Flash\pepflashplayer64_31_0_0_122.dll
+ユーザー エージェント	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3600.0 Iron Safari/537.36
+コマンドライン	"C:\Program Files\SRWare Iron (64-Bit)\chrome.exe" --flag-switches-begin --flag-switches-end -- https://get.adobe.com/flashplayer/completion/adm/?exitcode=0&type=install&re=1&appId=200&preinstalled=1
+実行ファイルのパス	C:\Program Files\SRWare Iron (64-Bit)\chrome.exe
+プロフィール パス	C:\Users\AtoZ\AppData\Local\Chromium\User Data\Default
+Linker	lld-link
+
+
+アップデート日　2019年05月04日
+（リリース日　2019年04月02日）
+SRWare Iron	73.0.3800.1 (Official Build) （64 ビット） 
+変更履歴	e82a658d8159cabbd4938c1660f9bb00b4a82a23-refs/branch-heads/3683@{#902}
+OS	Windows 10 OS Build 17134.706
+JavaScript	V8 7.3.492.27
+Flash	32.0.0.171 C:\WINDOWS\system32\Macromed\Flash\pepflashplayer64_32_0_0_171.dll
+ユーザー エージェント	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3800.1 Iron Safari/537.36
+コマンドライン	"C:\Program Files\SRWare Iron (64-Bit)\chrome.exe" --flag-switches-begin --flag-switches-end
+実行ファイルのパス	C:\Program Files\SRWare Iron (64-Bit)\chrome.exe
+プロフィール パス	C:\Users\AtoZ\AppData\Local\Chromium\User Data\Default
+
+
+アップデート日　2020年01月08日
+（リリース日　2019年12月06日）
+SRWare Iron	78.0.4050.0 (Official Build) （64 ビット）
+変更履歴	4b26898a39ee037623a72fcfb77279fce0e7d648-refs/branch-heads/3904@{#889}
+OS	Windows 10 OS Version 1903 (Build 18362.535)
+JavaScript	V8 7.8.279.23
+Flash	32.0.0.303 C:\WINDOWS\system32\Macromed\Flash\pepflashplayer64_32_0_0_303.dll
+ユーザー エージェント	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.4050.0 Iron Safari/537.36
+コマンドライン	"C:\Program Files\SRWare Iron (64-Bit)\chrome.exe" --flag-switches-begin --flag-switches-end
+実行ファイルのパス	C:\Program Files\SRWare Iron (64-Bit)\chrome.exe
+プロフィール パス	C:\Users\AtoZ\AppData\Local\Chromium\User Data\Default
+
+
+アップデート日　2020年05月15日
+（リリース日　2020年05月12日）
+SRWare Iron	81.0.4200.0 (Official Build) （64 ビット）
+変更履歴	44f4233f08910d83b146130c1938256a2e05b136-refs/branch-heads/4044@{#963}
+OS	Windows 10 OS Version 1903 (Build 18362.836)
+JavaScript	V8 8.1.307.31
+Flash	32.0.0.371 C:\WINDOWS\system32\Macromed\Flash\pepflashplayer64_32_0_0_371.dll
+ユーザー エージェント	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4200.0 Iron Safari/537.36
+コマンドライン	"C:\Program Files\SRWare Iron (64-Bit)\chrome.exe" --flag-switches-begin --flag-switches-end --enable-audio-service-sandbox
+実行ファイルのパス	C:\Program Files\SRWare Iron (64-Bit)\chrome.exe
+プロフィール パス	C:\Users\AtoZ\AppData\Local\Chromium\User Data\Default
+バリエーション	5e3a236d-59e286d0
